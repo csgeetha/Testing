@@ -1,4 +1,6 @@
 This is a sample text file. It is developed for learning purpose.
 
-I learned some more command from git
+
+This is fine but still need some more information.
+
 
